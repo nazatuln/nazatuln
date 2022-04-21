@@ -1,0 +1,4 @@
+git config --global http.https://github.com.proxy http://proxy-dmz.intel.com:912
+git config --global http.https://lfs.github.com.proxy http://proxy-dmz.intel.com:912
+git config --global http.https://github-cloud.s3.amazonaws.com.proxy http://proxy-dmz.intel.com:912
+git config --global http.https://github-cloud.githubusercontent.com.proxy http://proxy-dmz.intel.com:912
